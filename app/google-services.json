@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "743739129111",
+    "firebase_url": "https://spider-259df.firebaseio.com",
+    "project_id": "spider-259df",
+    "storage_bucket": "spider-259df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743739129111:android:e46ed93bf77eeba3",
+        "android_client_info": {
+          "package_name": "com.example.karthick.imaggaapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743739129111-hsfto537pmjbu8hd9bo6mmv9r2ic7gut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkTHhLLUJitugTkxW98Quu-rFhIWSfZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/images"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <!--<Button-->
+    <!--android:id="@+id/button"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="60dp"-->
+    <!--android:layout_gravity="center_vertical|center_horizontal"-->
+    <!--android:layout_marginTop="540dp"-->
+    <!--android:background="#ffabcd"-->
+    <!--android:text="Select Image from Gallery" />-->
+
+    <ImageView
+        android:id="@+id/gImage"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/responseButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="Play the game"
+        android:visibility="invisible" />
+
+</LinearLayout>
